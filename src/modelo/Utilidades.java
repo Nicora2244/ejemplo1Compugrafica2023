@@ -34,4 +34,7 @@ public class Utilidades {
         
         return t;
     }
+    
+    public static LinkedList<Cliente> guardarArchivo(){
+           
 }
